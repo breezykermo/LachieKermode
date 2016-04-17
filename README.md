@@ -1,0 +1,7 @@
+# Me in a Github repo
+
+This is my attempt to port the benefits of an open source software project to the project of the self, where people can learn about a person, suggest revisions, collaboratively work together under constructive principles of contribution, and keep a record of changes.
+
+The expression of the project of self as an open source project is of course riddled with philosophical inconsistencies, as is the premise that a collection of files can represent a person in any adequate way. However, this idea is no innovation of mine. The concept that we may reduce the self in some meaningful way to data has been with us since the advent of language, in names, adjectives, passports, resumes, and now social media profiles. OpenSourceMe in no way claims to holistically represent a person, but rather offers another way to encode aspects, products and derivations of self as technological expression. It is another online container for the self-representation we pour into the Facebooks, Twitters, Instagrams, Myspaces, Bebos1 and all the other online profiles that claim us as theirs.
+
+For more about this project, please see the [OpenSourceMe home page](https://github.com/OpenSourceMe/home).

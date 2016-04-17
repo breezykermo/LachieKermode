@@ -1,0 +1,14 @@
+{
+  "contents": [
+    {
+      "title": "Paideia Institute Website",
+      "tag": "Nationbuilder, Sass, Foundation, JavaScript",
+      "link": "http://www.paideiainstitute.org/"
+    },
+    {
+      "title": "Personal Website (what you see here)",
+      "tag": "React, Redux, Express and Github",
+      "link": "https://github.com/OpenSourceMe/Website"
+    }
+  ]
+}
