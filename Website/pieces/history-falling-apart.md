@@ -1,6 +1,3 @@
-title: history falling apart
-date: 09.12.2015
-
 my study of history is falling apart. i haven't concerned myself with it since i was kicked out of st johns for sleeping in the library. i haven't been able to bring myself to be concerned with it through the web. i spend most of my day looking through this screen, trying to find something worthwhile, and looking for history online seems distracted from what history is supposed to stand for; a referential tomb, for authority of thought and practice.
 
 in where i find myself financially, i ought not to buy history books. i visited the vatican museums with coworkers earler today, and was inadvertently reprimanded by our boss and tour guide for prioritising atmospheric humour atop of the legitimate study of authoritative art. i think i have faith in the cards i played; but this could well be because i don't know as much about art as my coworkers. reductive humour may be my ego's appeal to inferior knowledge. with the piece of mind i have of theirs, it is hard to be persuaded by inanimate statues, no matter how naturalised are their opposite limbs. how can coffee with deceptive me be less dynamic than a ruptured torso?

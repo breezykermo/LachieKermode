@@ -1,6 +1,3 @@
-title: essential SAT revision
-date: 31.10.2015
-
 ## Section 7
 
 # Reading Comprehension

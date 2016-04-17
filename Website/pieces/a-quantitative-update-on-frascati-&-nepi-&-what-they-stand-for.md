@@ -1,6 +1,3 @@
-title: a quantitative update on frascati & nepi & what they stand for
-date: 24.02.2016
-
 i have decided to end my official term with the [paideia institute](http://www.paideiainstitute.org), to freelance full-time. it's possible that i contradict my society's moral expectation of the general ability to commit. i tend to believe that this expectation comes from an anxiety regarding success, and its achievement. i have practiced success as self-consideration for years now, to the extent that i believe i am successful here in frascati, dwindling days away in listening to *eragon*'s audiolibro. i have just started dan brown's *the da vinci code*, which i have never read in english.
 
 during my time with paideia, i have worked on a number of projects, including the creation of their new [nationbuilder site](https://www.paideiainstitute.org), version 1 of a [latin reader for ios](http://www.paideiainstitute.org/delphin), and a browser extension for translating latin and greek (currently [available on chrome](https://chrome.google.com/webstore/detail/chromium-dictionary/plpakagjcfpanojjijfdcjlklffcfdah), soon to be also available for safari). i've also been writing [python](https://www.python.org/) and [google apps](https://www.google.com/script/start/) scripts now and then to help out with some of paideia's internal operations.

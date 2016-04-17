@@ -1,6 +1,3 @@
-title: for Germany
-date: 04.04.2016
-
 A train from Munich central station to Numberg, from which I transfer to a train to Bamberg. An overnight bus last night from Rome. A live, real-time flipped truck on a road in Austria. One MacBook charger left in Rome. A flight missed to Paris, with it one night at an AirBnB and a train route to Bamberg. Overstepping the terms of a personal relationship. Cash expended, paying for a dinner in Nepi, for drinks in Rome, and for the future Mac charger I need to purchase. A less than appreciable hairstyle, courtesy of wilful reaction on tour a month past. The almost-finished continuation of three freelance projects, as they somehow managed to cross the border and continue living in this fading, batterized computer.
 
 A new developing gig, working freelance for a month at [Artirigo](http://www.artirigo.de/en/). A new language, German, reducing me again to square zero. One new friend, met on overnight bus, a German girl from a small town near Neuschwanstein. A manageably good sleep. Reminder burst from a McDonalds paper cup that coffee in non-espresso amounts invigorates. A chapter of Byzantine history. A pumpkin bagel with cream cheese.
