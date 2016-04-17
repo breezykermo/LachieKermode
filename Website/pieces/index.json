@@ -25,6 +25,72 @@
       "title": "i thought it was a white picket fence",
       "date": "27.11.2015",
       "src": "i-thought-it-was-a-white-picket-fence.md"
+    },
+    {
+      "title": "i wear you when it's cold",
+      "date": "19.11.2015",
+      "video": "https://www.youtube.com/embed/KzVKYOB4bnU",
+      "src": "i-wear-you-when-its-cold.md"
+    },
+    {
+      "title": "I would like to be an open source software",
+      "date": "16.04.2016",
+      "src": "i-would-like-to-be-an-open-source-software.md"
+    },
+    {
+      "title": "il mio zaino",
+      "date": "23.07.2015",
+      "src": "il-mio-zaino.md"
+    },
+    {
+      "title": "in aotea",
+      "date": "14.11.2015",
+      "src": "in-aotea.md"
+    },
+    {
+      "title": "in london",
+      "date": "15.10.2015",
+      "src": "in-london.md"
+    },
+    {
+      "title": "intro to heidegger",
+      "date": "14.11.2015",
+      "src": "intro-to-heidegger.md"
+    },
+    {
+      "title": "la residenza",
+      "date": "03.09.2015",
+      "src": "la-residenza.md"
+    },
+    {
+      "title": "Logistics",
+      "date": "02.07.2015",
+      "src": "logistics.md"
+    },
+    {
+      "title": "my Overpowered Website",
+      "date": "29.02.2016",
+      "src": "my-overpowered-website.md"
+    },
+    {
+      "title": "Reasons",
+      "date": "02.07.2015",
+      "src": "reasons.md"
+    },
+    {
+      "title": "sulle note",
+      "date": "24.09.2015",
+      "src": "sulle-note.md"
+    },
+    {
+      "title": "Syllabus",
+      "date": "02.07.2015",
+      "src": "syllabus.md"
+    },
+    {
+      "title": "the coming archive",
+      "date": "01.01.2016",
+      "src": "the-coming-arching.md"
     }
   ]
 }

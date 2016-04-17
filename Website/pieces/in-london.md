@@ -1,6 +1,3 @@
-title: in london
-date: 15.10.2015
-
 in london
 i'm safe, but the situation here is serious.
 the opening line of an email from a soldier

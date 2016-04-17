@@ -1,6 +1,3 @@
-title: I would like to be an open source software.
-date: 16.04.2016
-
 I want to be open source software. It is a better way of creating and maintaining software. Good tech startups iterate quickly, making new versions of their software available to their community, because it is not ideas that make a company successful, but the successful execution of them. Open source philosophy takes community exposure to its extreme; the latest version of you software is *always* available to the community, and asks to be reviewed, improved and expanded.
 
 The inner details of application logic is available for anyone to see. Pull requests, the means by which someone in the community can request that a feature or improvement they have written be incorporated into the core repository, are regulated, so that the product in its original location cannot be bastardized from its original form -- but there are no secrets. If someone wants to develop on top of the product, they can [fork](https://help.github.com/articles/fork-a-repo/) the repository, and work on the software in a new instance with all the original code.

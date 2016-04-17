@@ -1,6 +1,3 @@
-title: in aotea
-date: 14.11.2015
-
 my thoughts are with you in paris
 
 red is the world

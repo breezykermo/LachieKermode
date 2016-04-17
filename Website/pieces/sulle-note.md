@@ -1,6 +1,3 @@
-title: sulle note
-date: 24.09.2015
-
 it's supposed to be fairly straightforward, the process of taking notes to remember what i read. my memory is fragile. it can never recall the words it wants, nor the names nor, god forgive, the dates. to insure my mind, broken from the beginning, against the future, to stimulate my memory when it lazes -- there are notes.
 
 i have been reading a world history textbook, to refurnish some of the rooms in my head, in some style that differs from contemporaneity's desperate pleas for attention. halfway through the rise of islam, i wondered why i was recording the names of the three most prominent rulers in the Abbasid dynasty --

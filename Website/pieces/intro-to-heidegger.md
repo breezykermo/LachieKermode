@@ -1,6 +1,3 @@
-title: intro to heidegger
-date: 14.11.2015
-
 October 18th, 2015
 
 i don't normally like to remind myself that i am, only, a conventional mind, but there has been nothing but this in england. there is weight around my waist, the product of an almost impressive avoidance of exercise in the past couple of weeks. reviewing my [syllabus](/blog/syllabus), i have done little in the way of reading, developing, and learning italian. the words i have read lose interest, soon, to impatience or desire or to be reading, writing or coding, or something fresher.

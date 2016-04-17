@@ -1,6 +1,3 @@
-title: la residenza
-date: 03.09.2015
-
 i have in this past month travelled around italy, and i have resorted again to little letters. letters presume so much, and i feel it is the least i can do to undermine their authority, though i want it do more.
 
 from arezzo, in tuscany, at a wooden desk, i write to myself. i am unable to be able to want to say anything directly, because i do not know exactly who is listening. (i find my words do little more than listen. i was never raised a preacher. i am only just beginning to understand academics.) this body has recently moved through rome -> bari -> patras -> selianitika -> patras -> ancona -> bologna -> arezzo -> firenze -> bologna -> milano -> turino -> cinque terre -> siena -> arezzo, and is soon to be back in rome. it is now, or soon, or now that i begin my residency, as an italian child in the shape of a moderately kept man.

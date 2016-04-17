@@ -1,6 +1,3 @@
-title: i wear you when it's cold
-date: 19.11.2015
-video: https://www.youtube.com/embed/KzVKYOB4bnU
 
 note: lyrics have changed slightly since i recorded this demo
 

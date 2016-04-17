@@ -1,6 +1,3 @@
-title: Logistics
-date: 02.07.2015
-
 Here are the basic terms of my year. I am working for the [Paideia Institute](https://www.paideiainstitute.org) in Rome from June 3rd though July 31st, as a digital humanities intern. With one other technical intern and three other classicists, I am helping to develop two applications for iPhone and iPad that are geared towards students of Latin and the Classics. In addition to this, Paideia has recently signed up for a content management system called Nationbuilder, a web-based community manager intended for non-profit organizations. I'm essentially managing the technical dimension of this migration, which involves restyling the Paideia website on Nationbuilder's web development framework, and recreating Paideia's web operations within Nationbuilder's framework. They're currently using a bunch of different applications, such as Google Forms, PayPal and MailChimp. Nationbuilder theoretically integrates all of these services into one, though the technical reality is a little more complicated.
 
 From August 3rd until September 12th, I’m thinking of backpacking around Italy during this time, and spending some time in the towns around Rome, though I haven’t worked anything in particular out.
