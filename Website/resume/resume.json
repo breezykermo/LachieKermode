@@ -24,7 +24,7 @@
     "frameworks+": [
       "React",
       "React Native",
-      "Redux"
+      "Redux",
       "Hapi",
       "MySQL & PostgreSQL",
       "Django",
@@ -33,7 +33,7 @@
     ],
     "misc | other": [
       "Founder and Maintainer of OpenSourceMe",
-      "HackMunich, 1st Place with ClaireCut"
+      "HackMunich, 1st Place with ClaireCut",
       "BICLazio Rome Hackathon, 1st Place with PocketBadge",
       "HackZurich 2015, Dropbox API Prize and Top 25 with StitchIt",
       "Advisory Board, Paideia Institute for Humanistic Study",
@@ -66,7 +66,7 @@
             "content": "Developed a full stack from scratch with React Native, Hapi, Sequelize and MariaDB, an iOS app with Swift and Parse, and a custom React website."
           },
           "right": "Frascati, Italy"
-        }
+        },
         {
           "left": "june 2015 - feb 2016",
           "body": {
