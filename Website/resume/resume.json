@@ -1,81 +1,87 @@
 {
   "header": {
     "name": "lachlan kermode",
-    "profession": "ios and web developer"
+    "profession": "developer"
   },
   "details": {
-    "location": "based in rome, italy",
     "website": "www.lachlankermode.com",
-    "phoneNo": "+39 342 826 8415",
     "email": "lachiekermode@gmail.com"
   },
   "skills": {
     "languages": [
       "English",
-      "javascript (es5, es6)",
-      "html | css",
-      "python",
+      "JavaScript",
+      "HTML/CSS",
+      "Python",
       "Italian",
-      "swift",
-      "ruby",
-      "java",
+      "Swift",
+      "Ruby",
+      "Java",
+      "C",
       "Latin",
-      "php",
-      "go",
-      "c"
+      "Go"
     ],
     "frameworks+": [
-      "react | redux",
-      "bootstrap | foundation",
-      "hapi",
-      "mysql | postgresql",
-      "django",
-      "wordpress",
-      "angular",
-      "a touch of rails"
+      "React",
+      "React Native",
+      "Redux"
+      "Hapi",
+      "MySQL & PostgreSQL",
+      "Django",
+      "AngularJS",
+      "Rails"
     ],
     "misc | other": [
-      "bic lazio talenttime hackathon, 1st place",
-      "hackzurich 2015, best use of dropbox api",
-      "TEFL certified teacher",
-      "outward bound, anakiwa nz",
-      "ian turner cup for best all rounder, auckland grammar",
-      "auckland university latin speaking 2012, 1st place",
-      "enjoy pschoanalytic & theoretical literature",
-      "enjoy listening to teen fantasy audiobooks"
+      "Founder and Maintainer of OpenSourceMe",
+      "HackMunich, 1st Place with ClaireCut"
+      "BICLazio Rome Hackathon, 1st Place with PocketBadge",
+      "HackZurich 2015, Dropbox API Prize and Top 25 with StitchIt",
+      "Advisory Board, Paideia Institute for Humanistic Study",
+      "TEFL Certified Teacher",
+      "Outward Bound Graduate, Anakiwa NZ",
+      "Ian Turner Cup for Best All Rounder, Auckland Grammar 2012",
+      "Auckland University Latin Speaking 2012, 1st Place"
     ]
   },
   "sections": [
     {
       "title": "interests",
-      "content": "from auckland new zealand. singer & songwriter: acapella with [princeton footnotes](http://www.princetonfootnotes.com), folk duo with '[baker and goods](https://bakerandgoods.bandcamp.com/releases)', singer in pop band '[chasing april](https://www.youtube.com/watch?v=Us3CcZmnwFA)'. music director and actor in various musicals at princeton, writer for the [triangle club](http://www.triangleshow.com/) at princeton. nz water polo representative 2012, princeton men's team 2014, nz champ marist mens team 2014. recently completed half iron man. currently reading and listening to a lot of italian literature."
+      "content": "hails from auckland nz. singer & songwriter: acapella with [princeton footnotes](http://www.princetonfootnotes.com), folk duo with '[baker and goods](https://bakerandgoods.bandcamp.com/releases)', past singer in pop band '[chasing april](https://www.youtube.com/watch?v=Us3CcZmnwFA)'. music director and actor in various musicals, writer for the [triangle club](http://www.triangleshow.com/) at princeton. nz water polo representative 2012, princeton men's team 2014, nz champ marist mens team 2014. recently completed half iron man."
     },
     {
       "title": "experience",
       "pills": [
         {
-          "left": "current",
+          "left": "April-May 2016",
           "body": {
-            "title": "web and ios freelancer",
-            "content": "ios and web apps: universal react app with a hapi api & react native for a client in australia, swift app for a client in new zealand, wordpress theme for a client in princeton."
+            "title": "Artirigo AG, tech startup",
+            "content": "React Native frontend for iOS and Android. In addition, Dockerized and made adjustments to existing Rails application"
           },
-          "right": "rome, italy"
+          "right": "Bamberg, Germany"
         },
+        {
+          "left": "January 2016-Present",
+          "body": {
+            "title": "Freelance Software Developer",
+            "content": "Developed a full stack from scratch with React Native, Hapi, Sequelize and MariaDB, an iOS app with Swift and Parse, and a custom React website."
+          },
+          "right": "Frascati, Italy"
+        }
         {
           "left": "june 2015 - feb 2016",
           "body": {
-            "title": "digital humanities, paideia institute",
-            "content": "offered a fellowship on the back of a summer internship, i have built up a nationbuilder website, an ios app, a chrome extension, and the beginnings of an api endpoint for paideia, as well as automating several internal processes via scripts."
+            "title": "Digital Humanities Fellow, Paideia Institute",
+            "content": "NationBuilder website (Rails, Liquid, CSS, JavaScript), an iOS app with Swift, a Chrome extensions. Also automated several internal processes via several Python scripts."
           },
-          "right": "rome, italy"
+          "right": "Rome, Italy"
         },
         {
-          "left": "summer 2014",
+          "left": "Summer 2014",
           "body": {
-            "title": "intern at the dentboard",
-            "content": "a princeton startup providing specialized software for the us dental industry. python scripts, web development, r&d, whatever needed helping with."
+            "title": "Sales Intern, Dentboard",
+            "content": "A startup providing specialized software for the dental industry. Bootstrapped a website cataloguing related industry."
           },
-          "right": "princeton, new jersey"
+          "right": "Princeton, NJ, USA"
         }
       ]
     },
@@ -85,24 +91,16 @@
         {
           "left": "present",
           "body": {
-            "title": "princeton university, undergrad",
-            "content": "studying computer science, currently on a one-year hiatus. classes also in intellectual history, dance, theatre, economics."
+            "title": "Princeton University",
+            "content": "Major in Computer Science. Classes also in intellectual history, dance, theatre, economics and other."
           },
-          "right": "new jersey, usa"
-        },
-        {
-          "left": "2008-2012",
-          "body": {
-            "title": "auckland grammar school",
-            "content": "a levels in music, maths, english, physics. as levels in latin, classics, thinking skills. senior prefect and leader of barbershop chorus!"
-          },
-          "right": "auckland, new zealand"
+          "right": "Princeton, NJ, USA"
         }
       ]
     },
     {
       "title": "portfolio | references",
-      "content": "see my [OpenSourceMe account on Github](https://github.com/OpenSourceMe) for the source code of this site. see [my website](http://lachlankermode.com/) for a [portfolio](http://lachlankermode.com/portfolio/) of websites & apps i have done. references (real words from real people) available on request."
+      "content": "To browse my code, see my [OpenSourceMe account on Github](https://github.com/OpenSourceMe) for the source code of this site, or my [Github account](https://github.com/breezykermo). References available on request."
     }
   ]
 }
