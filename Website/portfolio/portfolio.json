@@ -6,8 +6,8 @@
       "link": "http://www.paideiainstitute.org/"
     },
     {
-      "title": "Personal Website (what you see here)",
-      "tag": "React, Redux, Express, with Github as a content management system",
+      "title": "OpenSourceMe Website Engine",
+      "tag": "React, Redux, Express, using Github as a content management system. Powers this site.",
       "link": "https://github.com/OpenSourceMe/Website"
     }
   ]
