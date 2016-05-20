@@ -1,6 +1,8 @@
-I'm originally from Auckland, New Zealand. I'm halfway through an undergraduate education in Computer Science at Princeton University in the U.S., though at the moment I'm taking a year off to live in Rome and wider Italy, to develop software, read some books, write some music. I'm currently working as a Web and iOS Developer for the [Paideia Institute](https://www.paideiainstitute.org), and as a non-affiliated student.
+Originally from Auckland, New Zealand, I am **roughly** a digital nomad at the moment; though in September 2016 I'll continue my studies in Computer Science at Princeton University. I'm a full stack developer, particularly interested in frontend functional JavaScript, via React & React Native. See [my resume](http://lachlankermode.com/page/resume) for more about how I develop. See [this piece](/pieces/i-would-like-to-be-an-open-source-software) for info on how the practice of software development is relevant to me in a personal way. See my [other pieces](http://lachlankermode.com) for the other thoughts I have tried to code in writing.
 
-For more on what I'm specifically doing in Rome, see [logistics](/blog/logistics) and [syllabus](/blog/syllabus). If you want to read the speculative theories that justify my being in Rome for the Authorities that demand reason, see [reasons](/blog/reasons).
+This website is and will always be unfinished. I keep it as a practice, not as a product. If you have comments, improvements, or any other form of feedback, please feel free to create an issue on my [OpenSourceMe repo](https://github.com/OpenSourceMe/LachieKermode/issues) (this site is simply an expression of that repo--any changes made there will be reflected in this site). If you've never used Github before, [this article](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a good place to start!
+
+If you're a developer, feel free to check out the [source code](https://github.com/OpenSourceMe/Website) for this engine, which is all open source and configurable, if you like the idea of hosting your own site with Github as a content management system.
 
 <hr/>
 <div class="text-center">
