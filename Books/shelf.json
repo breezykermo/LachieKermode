@@ -1,0 +1,28 @@
+{
+  "shelf": [
+    {
+      "title": "If Beale Street Could Talk",
+      "author": "James Baldwin",
+      "wiki": "https://en.wikipedia.org/wiki/If_Beale_Street_Could_Talk",
+      "start": "14.6.2016",
+      "progress": 1.0,
+      "end": "18.6.2016"
+    },
+    {
+      "title": "The Signal and the Noise: Why So Predictions Fail--but Some Don't",
+      "author": "Nate Silver",
+      "wiki": "https://en.wikipedia.org/wiki/The_Signal_and_the_Noise",
+      "start": "18.6.2016",
+      "progress": 0.5,
+      "end": "21.6.2016"
+    },
+    {
+      "title": "The History of Sexuality",
+      "author": "Michel Foucault",
+      "wiki": "https://en.wikipedia.org/wiki/The_History_of_Sexuality",
+      "start": "22.6.2016",
+      "progress": 0.5,
+      "end": null
+    }
+  ]
+}
