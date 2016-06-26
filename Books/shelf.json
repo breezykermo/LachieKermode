@@ -23,6 +23,14 @@
       "start": "22.6.2016",
       "progress": 0.5,
       "end": null
+    },
+    {
+      "title": "The Little Go Book",
+      "author": "Karl Seguin",
+      "wiki": "http://openmymind.net/The-Little-Go-Book/",
+      "start": "24.6.2016",
+      "progress": 0.7,
+      "end": null
     }
   ]
 }
