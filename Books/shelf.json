@@ -21,16 +21,16 @@
       "author": "Michel Foucault",
       "wiki": "https://en.wikipedia.org/wiki/The_History_of_Sexuality",
       "start": "22.6.2016",
-      "progress": 0.5,
-      "end": null
+      "progress": 1,
+      "end": "28.6.2016"
     },
     {
       "title": "The Little Go Book",
       "author": "Karl Seguin",
       "wiki": "http://openmymind.net/The-Little-Go-Book/",
       "start": "24.6.2016",
-      "progress": 0.7,
-      "end": null
+      "progress": 1.0,
+      "end": "26.6.2016"
     }
   ]
 }
