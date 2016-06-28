@@ -1,7 +1,7 @@
 {
   "header": {
     "name": "lachlan kermode",
-    "profession": "developer"
+    "profession": "full stack developer"
   },
   "details": {
     "website": "www.lachlankermode.com",
@@ -14,12 +14,12 @@
       "HTML/CSS",
       "Python",
       "Italian",
-      "Swift",
+      "Swift & Objective C",
       "Ruby",
+      "Golang",
       "Java",
       "C",
-      "Latin",
-      "Go"
+      "Latin"
     ],
     "frameworks+": [
       "React",
@@ -27,9 +27,9 @@
       "Redux",
       "Hapi",
       "MySQL & PostgreSQL",
+      "Rails",
       "Django",
-      "AngularJS",
-      "Rails"
+      "AngularJS"
     ],
     "misc | other": [
       "Founder and Maintainer of OpenSourceMe",
