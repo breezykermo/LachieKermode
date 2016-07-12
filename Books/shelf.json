@@ -31,6 +31,46 @@
       "start": "24.6.2016",
       "progress": 1.0,
       "end": "26.6.2016"
+    },
+    {
+      "title": "The Portable Nietzsche",
+      "author": "edited and translated by Walter Kaufmann",
+      "wiki": "https://www.amazon.com/Portable-Nietzsche-Library/dp/0140150625",
+      "start": "29.6.2016",
+      "progress": 0.1,
+      "end": null
+    },
+    {
+      "title": "Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference",
+      "author": "Cameron Davidson-Pilon",
+      "wiki": "http://nbviewer.jupyter.org/github/camdavidsonpilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb",
+      "start": "30.6.2016",
+      "progress": 0,
+      "end": null
+    },
+    {
+      "title": "The Art of Community",
+      "author": "Jono Bacon",
+      "wiki": "http://www.artofcommunityonline.org/",
+      "start": "10.6.2016",
+      "progress": 0.2,
+      "end": null
+    },
+    {
+      "title": "Brecht and Method",
+      "author": "Fredric Jameson",
+      "wiki": "https://books.google.com/books?id=PB2fkJvtsJwC",
+      "start": "8.7.2016",
+      "progress": 0.1,
+      "end": null
+    },
+    {
+      "title": "Concrete Problems in AI Safety",
+      "author": "Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané",
+      "wiki": "https://arxiv.org/abs/1606.06565",
+      "start": "11.7.2016",
+      "progress": 1.0,
+      "end": "11.7.2016"
     }
   ]
 }
