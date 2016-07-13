@@ -54,15 +54,15 @@
         {
           "left": "June-August 2016",
           "body": {
-            "title": "Contracting Mobile Developer, Inflection.com",
+            "title": "Inflection",
             "content": "Developed an Objective C SDK for an OAuth2 verification flow, and two React Native applications. Contributions to Dockeried Rails/React stack."
           },
-          "right": "Princeton, NJ, USA"
+          "right": "San Francisco, CA, USA"
         },
         {
           "left": "April-May 2016",
           "body": {
-            "title": "Artirigo AG, tech startup",
+            "title": "Artirigo AG",
             "content": "React Native frontend for iOS and Android. In addition, Dockerized and made adjustments to existing Rails application"
           },
           "right": "Bamberg, Germany"
