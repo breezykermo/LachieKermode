@@ -52,14 +52,6 @@
       "title": "experience",
       "pills": [
         {
-          "left": "June-August 2016",
-          "body": {
-            "title": "Contracting Mobile Developer, Inflection.com",
-            "content": "Developed an Objective C SDK for an OAuth2 verification flow, a [React Native app](https://github.com/nextfoundation/impart) for demonstrating the SDK, and a separate React Native iPad application. Contributions to Rails/React stack."
-          },
-          "right": "Princeton, NJ, USA"
-        },
-        {
           "left": "April-May 2016",
           "body": {
             "title": "Artirigo AG, tech startup",
@@ -82,6 +74,14 @@
             "content": "NationBuilder website (Rails, Liquid, CSS, JavaScript), an iOS app with Swift, a Chrome extension, and automated several internal processes via Python scripts."
           },
           "right": "Rome, Italy"
+        },
+        {
+          "left": "Summer 2014",
+          "body": {
+            "title": "Sales Intern, Dentboard",
+            "content": "A startup providing specialized software for the dental industry. Bootstrapped a website cataloguing related industry."
+          },
+          "right": "Princeton, NJ, USA"
         }
       ]
     },
