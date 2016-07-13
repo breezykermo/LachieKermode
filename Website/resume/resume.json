@@ -55,7 +55,7 @@
           "left": "June-August 2016",
           "body": {
             "title": "Contracting Mobile Developer, Inflection.com",
-            "content": "Developed an Objective C SDK for an OAuth2 verification flow, a [React Native app](https://github.com/nextfoundation/impart) for demonstrating the SDK, and a separate React Native iPad application. Contributions to Rails/React stack."
+            "content": "Developed an Objective C SDK for an OAuth2 verification flow, and two React Native applications. Contributions to Dockeried Rails/React stack."
           },
           "right": "Princeton, NJ, USA"
         },
