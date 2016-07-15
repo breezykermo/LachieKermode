@@ -61,7 +61,7 @@
       "author": "Fredric Jameson",
       "wiki": "https://books.google.com/books?id=PB2fkJvtsJwC",
       "start": "8.7.2016",
-      "progress": 0.1,
+      "progress": 0.3,
       "end": null
     },
     {
@@ -71,6 +71,30 @@
       "start": "11.7.2016",
       "progress": 1.0,
       "end": "11.7.2016"
+    },
+    {
+      "title": "The Five Sense: A Philosophy of Mingled Bodies",
+      "author": "Michel Serres",
+      "wiki": "https://en.wikipedia.org/wiki/Michel_Serres",
+      "start": "12.7.2016",
+      "progress": 0,
+      "end": null
+    },
+    {
+      "title": "Michel Serres' 'The Five Senses'",
+      "author": "Steven Connor",
+      "wiki": "http://www.stevenconnor.com/5senses.htm",
+      "start": "14.7.2016",
+      "progress": 0.2,
+      "end": null
+    },
+    {
+      "title": "Neural Networks and Deep Learning",
+      "author": "Michael Nielsen",
+      "wiki": "http://neuralnetworksanddeeplearning.com/",
+      "start": "6.7.2016",
+      "progress": 0.15,
+      "end": null
     }
   ]
 }
