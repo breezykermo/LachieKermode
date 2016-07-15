@@ -1,7 +1,7 @@
 {
   "header": {
     "name": "lachlan kermode",
-    "profession": "full stack & mobile developer"
+    "profession": "full stack developer"
   },
   "details": {
     "website": "www.lachlankermode.com",
@@ -52,17 +52,9 @@
       "title": "experience",
       "pills": [
         {
-          "left": "June-August 2016",
-          "body": {
-            "title": "Inflection",
-            "content": "Developed an Objective C SDK for an OAuth2 verification flow, and two React Native applications. Contributions to Dockerized Rails/React stack."
-          },
-          "right": "San Francisco, CA, USA"
-        },
-        {
           "left": "April-May 2016",
           "body": {
-            "title": "Artirigo AG",
+            "title": "Artirigo AG, tech startup",
             "content": "React Native frontend for iOS and Android. In addition, Dockerized and made adjustments to existing Rails application"
           },
           "right": "Bamberg, Germany"
@@ -82,6 +74,14 @@
             "content": "NationBuilder website (Rails, Liquid, CSS, JavaScript), an iOS app with Swift, a Chrome extension, and automated several internal processes via Python scripts."
           },
           "right": "Rome, Italy"
+        },
+        {
+          "left": "Summer 2014",
+          "body": {
+            "title": "Sales Intern, Dentboard",
+            "content": "A startup providing specialized software for the dental industry. Bootstrapped a website cataloguing related industry."
+          },
+          "right": "Princeton, NJ, USA"
         }
       ]
     },
