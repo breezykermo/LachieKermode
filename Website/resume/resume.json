@@ -5,7 +5,8 @@
   },
   "details": {
     "website": "www.lachlankermode.com",
-    "email": "lachiekermode@gmail.com"
+    "email": "lachiekermode@gmail.com",
+    "website": "www.github.com/breezykermo"
   },
   "skills": {
     "languages": [
@@ -100,7 +101,7 @@
     },
     {
       "title": "portfolio | references",
-      "content": "[OpenSourceMe account on Github](https://github.com/OpenSourceMe/Website), [Github account (breezykermo)](https://github.com/breezykermo). Visit [lachlankermode.com/resume](http://lachlankermode.com/page/resume) for links. References available on request."
+      "content": "See code & contributions on [Github (breezykermo)](https://github.com/breezykermo). Visit [lachlankermode.com/resume](http://lachlankermode.com/page/resume) for links in this resume. References available on request."
     }
   ]
 }
