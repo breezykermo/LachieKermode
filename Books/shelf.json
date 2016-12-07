@@ -151,6 +151,14 @@
       "start": "27.11.2016",
       "progress": 1.0,
       "end": "27.11.2016"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "wiki": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "start": "02.12.2016",
+      "progress": 1.0,
+      "end": "06.12.2016"
     }
   ]
 }
