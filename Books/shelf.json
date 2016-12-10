@@ -159,6 +159,14 @@
       "start": "02.12.2016",
       "progress": 1.0,
       "end": "06.12.2016"
+    },
+    {
+      "title": "Haskell for Ocaml Programmers",
+      "author": "Raphael Poss",
+      "wiki": "http://science.raphael.poss.name/haskell-for-ocaml-programmers.html",
+      "start": "09.12.2016",
+      "progress": 1.0,
+      "end": "10.12.2016"
     }
   ]
 }
