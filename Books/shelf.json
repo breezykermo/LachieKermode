@@ -117,7 +117,7 @@
       "author": "Michel Foucault",
       "wiki": "https://en.wikipedia.org/wiki/Discipline_and_Punish",
       "start": "3.10.2016",
-      "progress": 0.3,
+      "progress": 0.8,
       "end": null
     },
     {
@@ -167,6 +167,22 @@
       "start": "09.12.2016",
       "progress": 1.0,
       "end": "10.12.2016"
+    },
+    {
+      "title": "Politics and the English Language",
+      "author": "George Orwell",
+      "wiki": "",
+      "start": "16.12.2016",
+      "progress": 1.0,
+      "end": "16.12.2016"
+    },
+    {
+      "title": "Learn You a Haskell For Great Good!",
+      "author": "Miran Lipovaca",
+      "wiki": "http://learnyouahaskell.com/",
+      "start": "12.12.2016",
+      "progress": 1.0,
+      "end": "22.12.2016"
     }
   ]
 }
