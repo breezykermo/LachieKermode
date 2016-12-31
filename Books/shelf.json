@@ -187,10 +187,10 @@
     {
       "title": "Archaeology of Knowledge",
       "author": "Michel Foucault",
-      "wiki": "",
+      "wiki": "https://en.wikipedia.org/wiki/The_Archaeology_of_Knowledge",
       "start": "23.12.2016",
-      "progress": 0.5,
-      "end": null
+      "progress": 1.0,
+      "end": "29.12.2016"
     },
     {
       "title": "Language Wants To Be Overlooked: On Software and Ideology",
@@ -207,6 +207,30 @@
       "start": "28.12.2016",
       "progress": 1.0,
       "end": "28.12.2016"
+    },
+    {
+      "title": "Protocol - How Control Exists after Decentralization",
+      "author": "Alexander Galloway",
+      "wiki": "https://mitpress.mit.edu/books/protocol",
+      "start": "29.12.2016",
+      "progress": 0.28,
+      "end": null
+    },
+    {
+      "title": "Concurrent Programming in ML",
+      "author": "John H. Reppy",
+      "wiki": "https://www.amazon.com/Concurrent-Programming-ML-John-Reppy/dp/0521714729",
+      "start": "30.12.2016",
+      "progress": 0.1,
+      "end": null
+    },
+    {
+      "title": "Foucault",
+      "author": "Gilles Deleuze",
+      "wiki": "https://www.amazon.co.uk/d/Books/Foucault-Athlone-Contemporary-European-Thinkers/0485113457",
+      "start": "20.12.2016",
+      "progress": 0.1,
+      "end": null
     }
   ]
 }
