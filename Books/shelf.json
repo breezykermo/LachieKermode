@@ -38,7 +38,7 @@
       "wiki": "https://www.amazon.com/Portable-Nietzsche-Library/dp/0140150625",
       "start": "29.6.2016",
       "progress": 0.1,
-      "end": null
+      "end": "5.7.2016"
     },
     {
       "title": "Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference",
@@ -46,7 +46,7 @@
       "wiki": "http://nbviewer.jupyter.org/github/camdavidsonpilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb",
       "start": "30.6.2016",
       "progress": 0,
-      "end": null
+      "end": "5.7.2016"
     },
     {
       "title": "The Art of Community",
@@ -54,7 +54,7 @@
       "wiki": "http://www.artofcommunityonline.org/",
       "start": "10.6.2016",
       "progress": 0.2,
-      "end": null
+      "end": "5.7.2016"
     },
     {
       "title": "Brecht and Method",
@@ -62,7 +62,7 @@
       "wiki": "https://books.google.com/books?id=PB2fkJvtsJwC",
       "start": "8.7.2016",
       "progress": 0.3,
-      "end": null
+      "end": "5.7.2016"
     },
     {
       "title": "Concrete Problems in AI Safety",
@@ -77,8 +77,8 @@
       "author": "Michel Serres",
       "wiki": "https://en.wikipedia.org/wiki/Michel_Serres",
       "start": "12.7.2016",
-      "progress": 0,
-      "end": null
+      "progress": 0.3,
+      "end": "10.11.2016"
     },
     {
       "title": "Michel Serres' 'The Five Senses'",
@@ -86,7 +86,7 @@
       "wiki": "http://www.stevenconnor.com/5senses.htm",
       "start": "14.7.2016",
       "progress": 0.2,
-      "end": null
+      "end": "5.7.2016"
     },
     {
       "title": "Neural Networks and Deep Learning",
@@ -94,7 +94,7 @@
       "wiki": "http://neuralnetworksanddeeplearning.com/",
       "start": "6.7.2016",
       "progress": 0.15,
-      "end": null
+      "end": "5.7.2016"
     },
     {
       "title": "Chaos Monkeys",
@@ -110,7 +110,7 @@
       "wiki": "https://www.manning.com/books/functional-reactive-programming",
       "start": "1.9.2016",
       "progress": 0.2,
-      "end": null
+      "end": "10.9.2016"
     },
     {
       "title": "Discipline and Punish",
@@ -118,7 +118,7 @@
       "wiki": "https://en.wikipedia.org/wiki/Discipline_and_Punish",
       "start": "3.10.2016",
       "progress": 0.8,
-      "end": null
+      "end": "12.1.2017"
     },
     {
       "title": "Fretful Sleepers: A Sketch of New Zealand Behavior",
@@ -231,6 +231,14 @@
       "start": "20.12.2016",
       "progress": 0.1,
       "end": null
+    },
+    {
+      "title": "MapReduce: Simplified Data Processing on Large Clusters",
+      "author": "Jeffrey Dean and Sanjay Ghemawat",
+      "wiki": "https://research.google.com/archive/mapreduce.html",
+      "start": "3.1.2017",
+      "progress": 1.0,
+      "end": "3.1.2017"
     }
   ]
 }
