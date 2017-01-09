@@ -213,7 +213,7 @@
       "author": "Alexander Galloway",
       "wiki": "https://mitpress.mit.edu/books/protocol",
       "start": "29.12.2016",
-      "progress": 0.28,
+      "progress": 0.44,
       "end": null
     },
     {
@@ -221,7 +221,7 @@
       "author": "John H. Reppy",
       "wiki": "https://www.amazon.com/Concurrent-Programming-ML-John-Reppy/dp/0521714729",
       "start": "30.12.2016",
-      "progress": 0.1,
+      "progress": 0.2,
       "end": null
     },
     {
@@ -229,7 +229,7 @@
       "author": "Gilles Deleuze",
       "wiki": "https://www.amazon.co.uk/d/Books/Foucault-Athlone-Contemporary-European-Thinkers/0485113457",
       "start": "20.12.2016",
-      "progress": 0.1,
+      "progress": 0.3,
       "end": null
     },
     {
@@ -239,6 +239,14 @@
       "start": "3.1.2017",
       "progress": 1.0,
       "end": "3.1.2017"
+    },
+    {
+      "title": "All About Monads",
+      "author": "Jeff Newbern",
+      "wiki": "https://www.cs.rit.edu/~swm/cs561/All_About_Monads.pdf",
+      "start": "9.1.2017",
+      "progress": 0.18,
+      "end": null
     }
   ]
 }
