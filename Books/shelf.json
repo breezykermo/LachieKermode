@@ -213,8 +213,8 @@
       "author": "Alexander Galloway",
       "wiki": "https://mitpress.mit.edu/books/protocol",
       "start": "29.12.2016",
-      "progress": 0.44,
-      "end": null
+      "progress": 1.0,
+      "end": "22.01.2017"
     },
     {
       "title": "Concurrent Programming in ML",
@@ -246,6 +246,14 @@
       "wiki": "https://www.cs.rit.edu/~swm/cs561/All_About_Monads.pdf",
       "start": "9.1.2017",
       "progress": 0.18,
+      "end": null
+    },
+    {
+      "title": "Real World OCaml",
+      "author": "Yaron Minsky, Anil Madhavapeddy, Jason Hickey",
+      "wiki": "https://realworldocaml.org/",
+      "start": "23.01.2017",
+      "progress": 0.1,
       "end": null
     }
   ]
