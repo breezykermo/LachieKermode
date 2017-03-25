@@ -65,28 +65,12 @@
       "end": "5.7.2016"
     },
     {
-      "title": "Concrete Problems in AI Safety",
-      "author": "Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané",
-      "wiki": "https://arxiv.org/abs/1606.06565",
-      "start": "11.7.2016",
-      "progress": 1.0,
-      "end": "11.7.2016"
-    },
-    {
       "title": "The Five Sense: A Philosophy of Mingled Bodies",
       "author": "Michel Serres",
       "wiki": "https://en.wikipedia.org/wiki/Michel_Serres",
       "start": "12.7.2016",
       "progress": 0.3,
       "end": "10.11.2016"
-    },
-    {
-      "title": "Michel Serres' 'The Five Senses'",
-      "author": "Steven Connor",
-      "wiki": "http://www.stevenconnor.com/5senses.htm",
-      "start": "14.7.2016",
-      "progress": 0.2,
-      "end": "5.7.2016"
     },
     {
       "title": "Neural Networks and Deep Learning",
@@ -121,34 +105,10 @@
       "end": "12.1.2017"
     },
     {
-      "title": "Fretful Sleepers: A Sketch of New Zealand Behavior",
-      "author": "Bill Pearson",
-      "wiki": "http://publicaddress.net/great-new-zealand-argument/fretful-sleepers/",
-      "start": "24.10.2016",
-      "progress": 1.0,
-      "end": "24.10.2016"
-    },
-    {
-      "title": "Against Proper Objects",
-      "author": "Judith Butler",
-      "wiki": "https://www.sfu.ca/~decaste/OISE/page2/files/ButlerAgainstProper.pdf",
-      "start": "27.10.2016",
-      "progress": 1.0,
-      "end": "27.10.2016"
-    },
-    {
       "title": "In, Against, and Beyond Capitalism",
       "author": "John Holloway",
       "wiki": "https://www.amazon.com/Against-Beyond-Capitalism-Francisco-Lectures/dp/1629631094",
       "start": "26.11.2016",
-      "progress": 1.0,
-      "end": "27.11.2016"
-    },
-    {
-      "title": "Afterword to the 2nd German Edition, Capital",
-      "author": "Karl Marx",
-      "wiki": "https://www.marxists.org/archive/marx/works/1867-c1/p3.htm",
-      "start": "27.11.2016",
       "progress": 1.0,
       "end": "27.11.2016"
     },
@@ -159,14 +119,6 @@
       "start": "02.12.2016",
       "progress": 1.0,
       "end": "06.12.2016"
-    },
-    {
-      "title": "Haskell for Ocaml Programmers",
-      "author": "Raphael Poss",
-      "wiki": "http://science.raphael.poss.name/haskell-for-ocaml-programmers.html",
-      "start": "09.12.2016",
-      "progress": 1.0,
-      "end": "10.12.2016"
     },
     {
       "title": "Politics and the English Language",
@@ -193,22 +145,6 @@
       "end": "29.12.2016"
     },
     {
-      "title": "Language Wants To Be Overlooked: On Software and Ideology",
-      "author": "Alexander Galloway",
-      "wiki": "",
-      "start": "28.12.2016",
-      "progress": 1.0,
-      "end": "28.12.2016"
-    },
-    {
-      "title": "Playing the Code - Allegories of Control in Civilization",
-      "author": "Alexander Galloway",
-      "wiki": "",
-      "start": "28.12.2016",
-      "progress": 1.0,
-      "end": "28.12.2016"
-    },
-    {
       "title": "Protocol - How Control Exists after Decentralization",
       "author": "Alexander Galloway",
       "wiki": "https://mitpress.mit.edu/books/protocol",
@@ -230,15 +166,7 @@
       "wiki": "https://www.amazon.co.uk/d/Books/Foucault-Athlone-Contemporary-European-Thinkers/0485113457",
       "start": "20.12.2016",
       "progress": 0.3,
-      "end": null
-    },
-    {
-      "title": "MapReduce: Simplified Data Processing on Large Clusters",
-      "author": "Jeffrey Dean and Sanjay Ghemawat",
-      "wiki": "https://research.google.com/archive/mapreduce.html",
-      "start": "3.1.2017",
-      "progress": 1.0,
-      "end": "3.1.2017"
+      "end": "30.01.2017"
     },
     {
       "title": "All About Monads",
@@ -254,7 +182,7 @@
       "wiki": "https://realworldocaml.org/",
       "start": "23.01.2017",
       "progress": 0.1,
-      "end": null
+      "end": "30.01.2017"
     },
     {
       "title": "Torture and the Ethics of Photography",
@@ -263,6 +191,158 @@
       "start": "24.01.2017",
       "progress": 1.0,
       "end": "24.01.2017"
+    },
+    {
+      "title": "The Political Unconscious",
+      "author": "Fredric Jameson",
+      "wiki": "https://en.wikipedia.org/wiki/The_Political_Unconscious",
+      "start": "05.03.2017",
+      "progress": 0.3,
+      "end": "12.03.2017"
+    },
+    {
+      "title": "A Thousand Plateaus",
+      "author": "Deleuze and Guattari",
+      "wiki": "https://en.wikipedia.org/wiki/A_Thousand_Plateaus",
+      "start": "05.02.2017",
+      "progress": 0.1,
+      "end": "13.02.2017"
+    },
+    {
+      "title": "Capital, Volume 1",
+      "author": "Karl Marx",
+      "wiki": "https://en.wikipedia.org/wiki/Capital,_Volume_I",
+      "start": "13.02.2017",
+      "progress": 0.1,
+      "end": "20.02.2017"
+    },
+    {
+      "title": "The Theory of Practice and Serious Play",
+      "author": "Larry M. Bogad",
+      "wiki": "https://www.amazon.com/Tactical-Performance-Theory-Practice-Serious/dp/1138917842",
+      "start": "14.02.2017",
+      "progress": 0.4,
+      "end": null
+    }
+  ],
+  "essays": [
+    {
+      "title": "Torture and the Ethics of Photography",
+      "author": "Judith Butler",
+      "wiki": "http://journals.sagepub.com/doi/pdf/10.1068/d2506jb",
+      "start": "24.01.2017",
+      "progress": 1.0,
+      "end": "24.01.2017"
+    },
+    {
+      "title": "Michel Serres' 'The Five Senses'",
+      "author": "Steven Connor",
+      "wiki": "http://www.stevenconnor.com/5senses.htm",
+      "start": "14.7.2016",
+      "progress": 0.2,
+      "end": "5.7.2016"
+    },
+    {
+      "title": "Fretful Sleepers: A Sketch of New Zealand Behavior",
+      "author": "Bill Pearson",
+      "wiki": "http://publicaddress.net/great-new-zealand-argument/fretful-sleepers/",
+      "start": "24.10.2016",
+      "progress": 1.0,
+      "end": "24.10.2016"
+    },
+    {
+      "title": "Against Proper Objects",
+      "author": "Judith Butler",
+      "wiki": "https://www.sfu.ca/~decaste/OISE/page2/files/ButlerAgainstProper.pdf",
+      "start": "27.10.2016",
+      "progress": 1.0,
+      "end": "27.10.2016"
+    },
+    {
+      "title": "Afterword to the 2nd German Edition, Capital",
+      "author": "Karl Marx",
+      "wiki": "https://www.marxists.org/archive/marx/works/1867-c1/p3.htm",
+      "start": "27.11.2016",
+      "progress": 1.0,
+      "end": "27.11.2016"
+    },
+    {
+      "title": "Language Wants To Be Overlooked: On Software and Ideology",
+      "author": "Alexander Galloway",
+      "wiki": "",
+      "start": "28.12.2016",
+      "progress": 1.0,
+      "end": "28.12.2016"
+    },
+    {
+      "title": "Playing the Code - Allegories of Control in Civilization",
+      "author": "Alexander Galloway",
+      "wiki": "",
+      "start": "28.12.2016",
+      "progress": 1.0,
+      "end": "28.12.2016"
+    },
+    {
+      "title": "A Thousand Ecologies: The Process of Cyberneticization and General Ecology",
+      "author": "Erich Hörl",
+      "start": "05.02.2017",
+      "end": "13.02.2017"
+    },
+    {
+      "title": "Constituents of a Theory of Media",
+      "author": "Hans Magnus Enzensberger",
+      "start": "13.02.2017",
+      "end": "20.02.2017"
+    },
+    {
+      "title": "Before The Beep: A Short History of Voice Mail",
+      "author": "Thomas Y. Levin",
+      "start": "20.02.2017",
+      "end": "27.02.2017"
+    }
+  ],
+  "technical": [
+    {
+      "title": "Concrete Problems in AI Safety",
+      "author": "Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané",
+      "wiki": "https://arxiv.org/abs/1606.06565",
+      "start": "11.7.2016",
+      "progress": 1.0,
+      "end": "11.7.2016"
+    },
+    {
+      "title": "Haskell for Ocaml Programmers",
+      "author": "Raphael Poss",
+      "wiki": "http://science.raphael.poss.name/haskell-for-ocaml-programmers.html",
+      "start": "09.12.2016",
+      "progress": 1.0,
+      "end": "10.12.2016"
+    },
+    {
+      "title": "MapReduce: Simplified Data Processing on Large Clusters",
+      "author": "Jeffrey Dean and Sanjay Ghemawat",
+      "wiki": "https://research.google.com/archive/mapreduce.html",
+      "start": "3.1.2017",
+      "progress": 1.0,
+      "end": "3.1.2017"
+    },
+    {
+      "title": "Opinion Mining and Sentiment Analysis",
+      "author": "Bo Pang, Lillian Lee",
+      "start": "05.02.2017",
+      "end": "13.02.2017"
+    },
+    {
+      "title": "The Princeton Web Transparency and Accountability Project",
+      "author": "Arvind Narayanan and Dillon Reisman",
+      "start": "13.02.2017",
+      "end": "20.02.2017"
+    },
+    {
+      "title": "A Smart Home is No Castle: Privacy Vulnerabilities of Encrypted IoT Traffic",
+      "author": "Noah Apthorpe, Dillon Reisman, Nick Feamster",
+      "start": "20.02.2017",
+      "end": "27.02.2017"
     }
   ]
 }
