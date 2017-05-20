@@ -1,6 +1,22 @@
 {
   "shelf": [
     {
+      "title": "A History of the Internet and the Digital Future",
+      "author": "Johnny Ryan",
+      "wiki": "http://press.uchicago.edu/ucp/books/book/distributed/H/bo10546731.html",
+      "start": "8.6.2017",
+      "progress": 0.2,
+      "end": null
+    },
+    {
+      "title": "The Marvelous Clouds: Towards a Philosophy of Elemental Media",
+      "author": "John Durham Peters",
+      "wiki": "http://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html",
+      "start": "8.6.2017",
+      "progress": 0.4,
+      "end": null
+    },
+    {
       "title": "Game Engine Architecture, 2nd Edition",
       "author": "Jason Gregory",
       "wiki": "http://gameenginebook.com/",
