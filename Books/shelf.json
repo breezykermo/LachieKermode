@@ -1,6 +1,14 @@
  {
   "shelf": [
     {
+      "title": "Metahistory: The Historical Imagination in Nineteenth-Century Europe",
+      "author": "Hayden White",
+      "wiki": "https://en.wikipedia.org/wiki/Metahistory:_The_Historical_Imagination_in_Nineteenth-century_Europe",
+      "start": "1.7.2017",
+      "progress": 0.2,
+      "end": null
+    },
+    {
       "title": "From Point to Pixel: A Genealogy of Digital Aesthetics",
       "author": "Meredith Hoy",
       "wiki": "https://www.amazon.com/Point-Pixel-Genealogy-Aesthetics-Interfaces/dp/1512600229",
@@ -13,15 +21,15 @@
       "author": "Michel de Certeau",
       "wiki": "https://www.amazon.de/Heterologies-Discourse-Theory-History-Literature/dp/0816614040",
       "start": "6.6.2017",
-      "progress": 0.6,
-      "end": null
+      "progress": 1.0,
+      "end": "1.7.2017"
     },
     {
       "title": "A History of the Internet and the Digital Future",
       "author": "Johnny Ryan",
       "wiki": "http://press.uchicago.edu/ucp/books/book/distributed/H/bo10546731.html",
       "start": "8.5.2017",
-      "progress": 0.3,
+      "progress": 0.5,
       "end": null
     },
     {
@@ -30,7 +38,7 @@
       "wiki": "http://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html",
       "start": "8.5.2017",
       "progress": 0.4,
-      "end": "29.5.2017"
+      "end": null
     },
     {
       "title": "Game Engine Architecture, 2nd Edition",
