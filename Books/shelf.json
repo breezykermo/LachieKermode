@@ -1,6 +1,22 @@
  {
   "shelf": [
     {
+      "title": "L'ordine del tempo",
+      "author": "Carlo Rovelli",
+      "wiki": "https://www.adelphi.it/libro/9788845931925",
+      "start": "18.7.2017",
+      "progress": 0.1,
+      "end": null
+    },
+    {
+      "title": "Obfuscation: A User's Guide for Privacy and Protest",
+      "author": "Finn Brunton | Helen Nissenbaum",
+      "wiki": "https://mitpress.mit.edu/books/obfuscation",
+      "start": "13.7.2017",
+      "progress": 1.0,
+      "end": "18.7.2017"
+    },
+    {
       "title": "Metahistory: The Historical Imagination in Nineteenth-Century Europe",
       "author": "Hayden White",
       "wiki": "https://en.wikipedia.org/wiki/Metahistory:_The_Historical_Imagination_in_Nineteenth-century_Europe",
@@ -37,7 +53,7 @@
       "author": "John Durham Peters",
       "wiki": "http://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html",
       "start": "8.5.2017",
-      "progress": 0.4,
+      "progress": 0.8,
       "end": null
     },
     {
