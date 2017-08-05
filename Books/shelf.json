@@ -1,12 +1,20 @@
  {
   "shelf": [
     {
+      "title": "Technics and Civilization",
+      "author": "Lewis Mumford",
+      "wiki": "https://en.wikipedia.org/wiki/Technics_and_Civilization",
+      "start": "5.9.2017",
+      "progress": 0.15,
+      "end": null
+    },
+    {
       "title": "The Interface Effect",
       "author": "Alexander R. Galloway",
       "wiki": "http://www.booksamillion.com/p/Interface-Effect/Alexander-R-Galloway/9780745662527",
       "start": "26.07.2017",
-      "progress": 0.6,
-      "end": null
+      "progress": 1.0,
+      "end": "4.9.2017"
     },
     {
       "title": "Black Transparency, The Right to Know in the Age of Mass Surveillance",
@@ -22,7 +30,7 @@
       "wiki": "https://www.adelphi.it/libro/9788845931925",
       "start": "18.7.2017",
       "progress": 0.1,
-      "end": null
+      "end": "1.9.2017"
     },
     {
       "title": "Obfuscation: A User's Guide for Privacy and Protest",
