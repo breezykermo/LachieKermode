@@ -1,6 +1,14 @@
  {
   "shelf": [
     {
+      "title": "Ethics of Information",
+      "author": "Luciano Floridi",
+      "wiki": "https://global.oup.com/academic/product/the-ethics-of-information-9780199641321?cc=us&lang=en&#.UTXMZXxOpkg",
+      "start": "9.8.2017",
+      "progress": 0.1,
+      "end": null
+    },
+    {
       "title": "Certified Ethical Hacker V9, Study Guide",
       "author": "Sean-Phillip Oriyano",
       "wiki": "http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119252245.html",
@@ -13,7 +21,7 @@
       "author": "Lewis Mumford",
       "wiki": "https://en.wikipedia.org/wiki/Technics_and_Civilization",
       "start": "5.9.2017",
-      "progress": 0.15,
+      "progress": 0.5,
       "end": null
     },
     {
@@ -54,7 +62,7 @@
       "wiki": "https://en.wikipedia.org/wiki/Metahistory:_The_Historical_Imagination_in_Nineteenth-century_Europe",
       "start": "1.7.2017",
       "progress": 0.2,
-      "end": null
+      "end": "12.7.2017"
     },
     {
       "title": "From Point to Pixel: A Genealogy of Digital Aesthetics",
