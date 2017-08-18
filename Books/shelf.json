@@ -1,6 +1,22 @@
  {
   "shelf": [
     {
+      "title": "Siddhartha",
+      "author": "Herman Hesse",
+      "wiki": "https://en.wikipedia.org/wiki/Siddharta_(romanzo)",
+      "start": "11.8.2017",
+      "progress": 1.0,
+      "end": "14.8.2017"
+    },
+    {
+      "title": "D is for Digital: what a well-informed person should know about computers and communication",
+      "author": "Brian Kernighan",
+      "wiki": "http://www.kernighan.com/",
+      "start": "17.8.2017",
+      "progress": 0.2,
+      "end": null
+    },
+    {
       "title": "Ethics of Information",
       "author": "Luciano Floridi",
       "wiki": "https://global.oup.com/academic/product/the-ethics-of-information-9780199641321?cc=us&lang=en&#.UTXMZXxOpkg",
