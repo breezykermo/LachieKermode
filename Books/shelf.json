@@ -1,12 +1,28 @@
  {
   "shelf": [
     {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "wiki": "https://en.wikipedia.org/wiki/Hamlet",
+      "start": "7.9.2017",
+      "progress": 0.6,
+      "end": "12.9.2017"
+    },
+    {
+      "title": "An Actor Prepares",
+      "author": "Constantine Stanislavsky",
+      "wiki": "https://en.wikipedia.org/wiki/An_Actor_Prepares",
+      "start": "12.9.2017",
+      "progress": 0.1,
+      "end": null
+    },
+    {
       "title": "The Animator's Survival Kit",
       "author": "Richard Williams",
       "wiki": "http://www.theanimatorssurvivalkit.com/",
       "start": "21.8.2017",
       "progress": 0.1,
-      "end": null
+      "end": "14.9.2017"
     },
     {
       "title": "We Know All About You: The Story of Surveillance in Britain and America",
@@ -46,7 +62,7 @@
       "wiki": "http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119252245.html",
       "start": "5.9.2017",
       "progress": 0.1,
-      "end": null
+      "end": "14.9.2017"
     },
     {
       "title": "Technics and Civilization",
