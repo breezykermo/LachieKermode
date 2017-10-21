@@ -1,6 +1,30 @@
  {
   "shelf": [
     {
+      "title": "Finish Your Film! Tips and Tricks for Making an Animated Short in Maya",
+      "author": "Kenny Roy",
+      "wiki": "https://duckduckgo.com/?q=making+an+animated+short+kenny+roy&t=min&ia=products",
+      "start": "10.10.2017",
+      "progress": 0.4,
+      "end": null
+    },
+    {
+      "title": "Bodies That Matter: On the Discursive Limits of Sex",
+      "author": "Judith Butler",
+      "wiki": "https://books.google.com/books/about/Bodies_that_Matter.html?id=ZqiIgwQiyFYC",
+      "start": "7.10.2017",
+      "progress": 0.5,
+      "end": null
+    },
+    {
+      "title": "Facing Gaia: Eight Lectures on the New Climatic Regime",
+      "author": "Bruno Latour",
+      "wiki": "https://duckduckgo.com/?q=eight+lectures+on+the+new+climatic+regime&t=min&ia=web",
+      "start": "18.10.2017",
+      "progress": 0.1,
+      "end": null
+    },
+    {
       "title": "Hamlet",
       "author": "William Shakespeare",
       "wiki": "https://en.wikipedia.org/wiki/Hamlet",
@@ -13,8 +37,8 @@
       "author": "Constantine Stanislavsky",
       "wiki": "https://en.wikipedia.org/wiki/An_Actor_Prepares",
       "start": "12.9.2017",
-      "progress": 0.1,
-      "end": null
+      "progress": 0.6,
+      "end": "20.9.2017"
     },
     {
       "title": "The Animator's Survival Kit",
