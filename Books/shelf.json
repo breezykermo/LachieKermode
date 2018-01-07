@@ -1,12 +1,20 @@
  {
   "shelf": [
     {
+      "title": "Penguin History of New Zealand",
+      "author": "Michael King",
+      "wiki": "https://www.amazon.com/Penguin-History-New-Zealand/dp/1459623754",
+      "start": "12.24.2017",
+      "progress": 0.6,
+      "end": null
+    },
+    {
       "title": "Unfinished Business: Michael Jackson, Detroit, & the Figural Economy of American Deindustrialization",
       "author": "Judith Hamera",
       "wiki": "https://global.oup.com/academic/product/unfinished-business-9780199348589?cc=us&lang=en&",
       "start": "10.31.2017",
-      "progress": 0.2,
-      "end": null
+      "progress": 0.5,
+      "end": "12.11.2017"
     },
     {
       "title": "Liquidated: An Ethnography of Wall Street",
@@ -14,7 +22,7 @@
       "wiki": "https://www.dukeupress.edu/Liquidated/",
       "start": "11.2.2017",
       "progress": 0.5,
-      "end": null
+      "end": "11.10.2017"
     },
     {
       "title": "Finish Your Film! Tips and Tricks for Making an Animated Short in Maya",
