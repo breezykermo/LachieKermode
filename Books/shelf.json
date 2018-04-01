@@ -1,26 +1,42 @@
- {
+  {
   "shelf": [
+    {
+      "title": "Sensible Politics: The Visual Culture of Nongovernmental Activism",
+      "author": "ed. Meg McLagan, Yates McKee",
+      "wiki": "http://www.forensic-architecture.org/publication/sensible-politics/",
+      "start": "26.3.2017",
+      "progress": 0.2,
+      "end": null
+    },
+    {
+      "title": "The Least of All Possible Evils",
+      "author": "Eyal Weizman",
+      "wiki": "https://www.versobooks.com/books/2464-the-least-of-all-possible-evils",
+      "start": "30.3.2017",
+      "progress": 0.3,
+      "end": null
+    },
     {
       "title": "Critical Narrative as Pedagogy",
       "author": "Ivor Goodson, Scherto Gill",
       "wiki": "https://www.bloomsbury.com/us/critical-narrative-as-pedagogy-9781623563523/",
-      "start": "28.2.2017",
-      "progress": 0.3,
-      "end": null
+      "start": "28.2.2018",
+      "progress": 0.6,
+      "end": "27.3.2018"
     },
     {
       "title": "Cities without Citizens",
       "author": "Aaron Levy, Eduardo Cadava",
       "wiki": "https://www.amazon.com/Cities-without-Citizens-Theory-Aaron/dp/0971484848",
-      "start": "14.3.2017",
-      "progress": 0.1,
-      "end": null
+      "start": "14.3.2018",
+      "progress": 0.3,
+      "end": "24.3.2018"
     },
     {
       "title": "Forensic Architecture: Violence at the Threshold of Detectability",
       "author": "Eyal Weizman",
       "wiki": "http://www.forensic-architecture.org/publications/",
-      "start": "3.7.2017",
+      "start": "3.7.2018",
       "progress": 0.5,
       "end": null
     },
