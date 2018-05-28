@@ -1,20 +1,36 @@
   {
   "shelf": [
     {
+      "title": "Postmodern Geographies: The Reassertion of Space in Critical Social Theory",
+      "author": "Edward W. Soja",
+      "wiki": "https://books.google.com/books/about/Postmodern_Geographies.html?id=xrmaSYfLOQ8C",
+      "start": "21.5.2018",
+      "progress": 0.3,
+      "end": null
+    },
+    {
+      "title": "Practical Vim, Second Edition: Edit Text at the Speed of Thought",
+      "author": "Drew Neil",
+      "wiki": "https://github.com/TechBookHunter/Free-Text-Editor-Books/blob/master/book/Practical%20Vim%20-%20Edit%20Text%20at%20the%20Speed%20of%20Thought%20-%20Second%20Edition.pdf",
+      "start": "27.5.2018",
+      "progress": 0.1,
+      "end": null
+    },
+    {
       "title": "Sensible Politics: The Visual Culture of Nongovernmental Activism",
       "author": "ed. Meg McLagan, Yates McKee",
       "wiki": "http://www.forensic-architecture.org/publication/sensible-politics/",
-      "start": "26.3.2017",
+      "start": "26.3.2018",
       "progress": 0.2,
-      "end": null
+      "end": "10.4.2018"
     },
     {
       "title": "The Least of All Possible Evils",
       "author": "Eyal Weizman",
       "wiki": "https://www.versobooks.com/books/2464-the-least-of-all-possible-evils",
-      "start": "30.3.2017",
-      "progress": 0.3,
-      "end": null
+      "start": "30.3.2018",
+      "progress": 1.0,
+      "end": "10.4.2018" 
     },
     {
       "title": "Critical Narrative as Pedagogy",
