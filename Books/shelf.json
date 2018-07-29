@@ -1,12 +1,28 @@
   {
   "shelf": [
     {
+      "title": "Empire",
+      "author": "Michael Hardt, Antonio Negri",
+      "wiki": "https://en.wikipedia.org/wiki/Empire_(Hardt_and_Negri_book)",
+      "start": "24.7.2018",
+      "progress": 0.1,
+      "end": null
+    },
+    {
+      "title": "Unfinished: The Anthropology of Becoming",
+      "author": "ed. Joao Biehl, Peter Locke",
+      "wiki": "https://www.dukeupress.edu/unfinished",
+      "start": "16.7.2018",
+      "progress": 0.5,
+      "end": null
+    },
+    {
       "title": "Postmodern Geographies: The Reassertion of Space in Critical Social Theory",
       "author": "Edward W. Soja",
       "wiki": "https://books.google.com/books/about/Postmodern_Geographies.html?id=xrmaSYfLOQ8C",
       "start": "21.5.2018",
-      "progress": 0.3,
-      "end": null
+      "progress": 0.6,
+      "end": "18.7.2018" 
     },
     {
       "title": "Practical Vim, Second Edition: Edit Text at the Speed of Thought",
