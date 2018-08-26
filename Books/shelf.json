@@ -1,11 +1,18 @@
   {
   "shelf": [
+    { "title": "Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing",
+      "author": "Marie Hicks",
+      "wiki": "https://mitpress.mit.edu/books/programmed-inequality",
+      "start": "25.8.2018",
+      "progress": 0.1,
+      "end": null
+    },
     { "title": "The Land of Open Graves: Living and Dying on the Migrant Trail",
       "author": "Jason De León",
       "wiki": "http://jasonpatrickdeleon.com/?page_id=20",
       "start": "29.7.2018",
-      "progress": 0.5,
-      "end": null
+      "progress": 1,
+      "end": "19.8.2018" 
     },
     {
       "title": "Empire",
@@ -21,7 +28,7 @@
       "wiki": "https://www.dukeupress.edu/unfinished",
       "start": "16.7.2018",
       "progress": 0.5,
-      "end": null
+      "end": "19.8.2018" 
     },
     {
       "title": "Postmodern Geographies: The Reassertion of Space in Critical Social Theory",
@@ -37,7 +44,7 @@
       "wiki": "https://github.com/TechBookHunter/Free-Text-Editor-Books/blob/master/book/Practical%20Vim%20-%20Edit%20Text%20at%20the%20Speed%20of%20Thought%20-%20Second%20Edition.pdf",
       "start": "27.5.2018",
       "progress": 0.1,
-      "end": null
+      "end": "19.8.2018" 
     },
     {
       "title": "Sensible Politics: The Visual Culture of Nongovernmental Activism",
