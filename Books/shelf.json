@@ -1,18 +1,25 @@
   {
   "shelf": [
+    { "title": "Fear of Small Numbers: An Essay on the Geography of Anger",
+      "author": "Arjun Appadurai",
+      "wiki": "https://www.dukeupress.edu/fear-of-small-numbers",
+      "start": "22.10.2018",
+      "progress": 0.6,
+      "end": null
+    },
     { "title": "The Message is Murder: Substrates of Computational Capital",
       "author": "Jonathan Beller",
       "wiki": "https://www.plutobooks.com/9780745337302/the-message-is-murder/",
       "start": "21.9.2018",
       "progress": 0.1,
-      "end": null
+      "end": "22.9.2018" 
     },
     { "title": "Notes Toward a Performative Theory of Assembly",
       "author": "Judith Butler",
       "wiki": "http://www.hup.harvard.edu/catalog.php?isbn=9780674967755",
       "start": "12.9.2018",
-      "progress": 0.2,
-      "end": null
+      "progress": 1,
+      "end": "15.10.2018" 
     },
     { "title": "Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing",
       "author": "Marie Hicks",
