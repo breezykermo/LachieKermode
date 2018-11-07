@@ -1,5 +1,12 @@
   {
   "shelf": [
+    { "title": "Hollow Land: Israel's Architecture of Occupation",
+      "author": "Eyal Weizman",
+      "wiki": "https://www.versobooks.com/books/2500-hollow-land",
+      "start": "11.10.2018",
+      "progress": 1.0,
+      "end": "22.10.2018"
+    },
     { "title": "Fear of Small Numbers: An Essay on the Geography of Anger",
       "author": "Arjun Appadurai",
       "wiki": "https://www.dukeupress.edu/fear-of-small-numbers",
@@ -12,14 +19,14 @@
       "wiki": "https://www.plutobooks.com/9780745337302/the-message-is-murder/",
       "start": "21.9.2018",
       "progress": 0.1,
-      "end": "22.9.2018" 
+      "end": "22.9.2018"
     },
     { "title": "Notes Toward a Performative Theory of Assembly",
       "author": "Judith Butler",
       "wiki": "http://www.hup.harvard.edu/catalog.php?isbn=9780674967755",
       "start": "12.9.2018",
       "progress": 1,
-      "end": "15.10.2018" 
+      "end": "15.10.2018"
     },
     { "title": "Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing",
       "author": "Marie Hicks",
