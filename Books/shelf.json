@@ -1,5 +1,22 @@
   {
   "shelf": [
+    {
+      "title": "Undoing the Demos: Neoliberalism's Stealth Revolution",
+      "author": "Wendy Brown",
+      "wiki": "https://mitpress.mit.edu/books/undoing-demos",
+      "progress": 0.7,
+      "start": "16.11.2018",
+      "end": null
+    },
+
+    {
+      "title": "The Future as Cultural Fact",
+      "author": "Arjun Appadurai",
+      "wiki": "https://www.versobooks.com/books/1171-the-future-as-cultural-fact",
+      "progress": 0.1,
+      "start": "24.11.2018",
+      "end": null
+    },
     { "title": "Hollow Land: Israel's Architecture of Occupation",
       "author": "Eyal Weizman",
       "wiki": "https://www.versobooks.com/books/2500-hollow-land",
@@ -12,7 +29,7 @@
       "wiki": "https://www.dukeupress.edu/fear-of-small-numbers",
       "start": "22.10.2018",
       "progress": 0.6,
-      "end": null
+      "end": "11.11.2018" 
     },
     { "title": "The Message is Murder: Substrates of Computational Capital",
       "author": "Jonathan Beller",
