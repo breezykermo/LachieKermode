@@ -1,12 +1,36 @@
 {
   "shelf": [
     {
+      "title": "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins",
+      "author": "Anna Lowenhaupt Tsing",
+      "wiki": "https://press.princeton.edu/titles/10581.html",
+      "progress": 0.6,
+      "start": "20.12.2018",
+      "end": null
+    },
+    {
+      "title": "Computer Networks: 4th Edition",
+      "author": "Andrew S. Tannenbaum",
+      "wiki": "http://www.iupress.indiana.edu/product_info.php?products_id=21358",
+      "progress": 0.2,
+      "start": "25.12.2018",
+      "end": null
+    },
+    {
+      "title": "The Geopolitical Aesthetic",
+      "author": "Fredric Jameson",
+      "wiki": "http://www.iupress.indiana.edu/product_info.php?products_id=21358",
+      "progress": 0.1,
+      "start": "29.12.2018",
+      "end": null
+    },
+    {
       "title": "Elixir Getting Started Guide",
       "author": "elixir-lang.org",
       "wiki": "https://elixir-lang.org/getting-started/introduction.html",
       "progress": 1.0,
       "start": "23.11.2018",
-      "end": "1.12.2018" 
+      "end": "1.12.2018"
     },
     {
       "title": "Undoing the Demos: Neoliberalism's Stealth Revolution",
@@ -14,7 +38,7 @@
       "wiki": "https://mitpress.mit.edu/books/undoing-demos",
       "progress": 0.7,
       "start": "16.11.2018",
-      "end": "30.11.2018" 
+      "end": "30.11.2018"
     },
     {
       "title": "The Future as Cultural Fact",
@@ -22,7 +46,7 @@
       "wiki": "https://www.versobooks.com/books/1171-the-future-as-cultural-fact",
       "progress": 0.1,
       "start": "24.11.2018",
-      "end": null
+      "end": "24.12.2018"
     },
     { "title": "Hollow Land: Israel's Architecture of Occupation",
       "author": "Eyal Weizman",
@@ -36,7 +60,7 @@
       "wiki": "https://www.dukeupress.edu/fear-of-small-numbers",
       "start": "22.10.2018",
       "progress": 0.6,
-      "end": "11.11.2018" 
+      "end": "11.11.2018"
     },
     { "title": "The Message is Murder: Substrates of Computational Capital",
       "author": "Jonathan Beller",
@@ -72,7 +96,7 @@
       "wiki": "https://en.wikipedia.org/wiki/Empire_(Hardt_and_Negri_book)",
       "start": "24.7.2018",
       "progress": 0.6,
-      "end": null
+      "end": "24.12.2018"
     },
     {
       "title": "Unfinished: The Anthropology of Becoming",
